@@ -1,1 +1,2 @@
-This is the description of my repo 
+Objective: This task involves creating a README.md file with some content in it. 
+Modification in main branch. 
